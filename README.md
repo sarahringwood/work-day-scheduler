@@ -24,3 +24,4 @@ THEN the saved events persist
 
 Link to site: https://sarahringwood.github.io/work-day-scheduler/ 
 
+![image](assets/screenshot.png)
