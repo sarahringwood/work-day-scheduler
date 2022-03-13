@@ -22,4 +22,5 @@ THEN the text for that event is saved in local storage\
 WHEN I refresh the page\
 THEN the saved events persist
 
-Link to site:
+Link to site: https://sarahringwood.github.io/work-day-scheduler/ 
+
